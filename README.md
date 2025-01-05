@@ -1,4 +1,5 @@
 # EventBot 🎉
+![Nombre de téléchargements](https://img.shields.io/github/downloads/Axel-Corp/eventbot/total.svg "total.svg")
 
 EventBot est un bot Discord permettant de créer, gérer et s'inscrire à des événements directement depuis un serveur Discord. Il offre des fonctionnalités telles que :
 
